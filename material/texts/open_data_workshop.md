@@ -27,3 +27,6 @@ After the exercise we went together through an advanced example. Using data from
 The purpose of the advanced example wasn't to get the teachers to understand all the details of the discovery of the Higgs boson or how to program well. Rather, the idea was to provide a real world example of the scientific method. This mindset is important to transfer to students - in our approach, programming is a tool for making science and building things, not an end goal. And rather than focusing on the peculiarities of particle physics, the focus is in understanding the effort that goes into scientific discovery. 
 
 Two hours is a short time to introduce people to open data, and the teachers had to process a lot of new information depending on their familiarity with the subject. However, the feedback was positive, and many teachers were excited to learn more.
+
+### About the writer
+Santeri Koivula is a Bachelor’s student in Aalto University, studying Mathematics and Systems Sciences as his major. In summer 2022, he works as a summer trainee for Helsinki Institute of Physics at CERN. In his work he makes materials and organizes workshops for the purpose of creating research-based teaching in classrooms. During his free time, Santeri enjoys dancing and doing volunteer work.
