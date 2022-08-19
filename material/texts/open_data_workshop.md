@@ -1,4 +1,4 @@
-# **What can an Open Data Workshop look like? Summer 2022 at CERN**
+# **What can an OD Workshop look like? Summer 2022 at CERN**
 
 The amount of data is rising all the time, and with it its importance in our society. Large data sets are used in various research fields and businesses, and there are many places online where you can get access to data for free. One of these places is CERN, the European Organization for Nuclear Research, which has almost 10,000 datasets from the CMS experiment freely available in its open data portal. We held a workshop about how teachers could use real data in their classes as a part of CERN’s International High School Teacher Programme, where over 40 teachers got to learn about the possibilities of teaching based on open data.
 
