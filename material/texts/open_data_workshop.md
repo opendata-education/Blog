@@ -29,6 +29,6 @@ The purpose of the advanced example wasn't to get the teachers to understand all
 Two hours is a short time to introduce people to open data, and the teachers had to process a lot of new information depending on their familiarity with the subject. However, the feedback was positive, and many teachers were excited to learn more.
 
 ### About the writer
-Santeri Koivula is a Bachelor’s student in Aalto University, studying Mathematics and Systems Sciences as his major. In summer 2022, he works as a summer trainee for Helsinki Institute of Physics at CERN. In his work he makes materials and organizes workshops for the purpose of creating research-based teaching in classrooms. During his free time, Santeri enjoys dancing and doing volunteer work. testi
+Santeri Koivula is a Bachelor’s student in Aalto University, studying Mathematics and Systems Sciences as his major. In summer 2022, he works as a summer trainee for Helsinki Institute of Physics at CERN. In his work he makes materials and organizes workshops for the purpose of creating research-based teaching in classrooms. During his free time, Santeri enjoys dancing and doing volunteer work.
 
 <img src="../pictures/SanteriK_final.jpg" alt="Photo of the writer" style="height: 450px"> 
