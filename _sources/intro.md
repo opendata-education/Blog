@@ -1,19 +1,19 @@
-# Tervetuloa meidän blogiin!
+# Welcome to our blog!
 
-Mukavaa, että päätit kurkata tänne!
+We are happy that you decided to pop in here!
 
-Me, tämän projektin parissa työskentelevät tyypit, kirjoittelemme tänne avoimeen dataan ja lukio-opetukseen liittyvien aihepiirien tiimoilta. Siinä missä meidän kokemuksiin ja ajatuksiin tutustuminen voi olla oma matkansa, niin täällä pääset kurkkaamaan suoraan kotisohvaltasi meidän järjestämien opettajakoulutusten, työpajojen ja lukiovierailuiden melskeeseen.
+We write about topics related to open data and using it as a part of high school level teaching. While it might be interesting to read about our thoughs and experiences on the field, in here you can take a peek to the teacher courses, workshops, and high school visits, we have organized. 
 
-Me toivomme, että tämän blogin avulla voimme tarjota matalan kynnyksen tutustumispaikan siihen, miltä avoimen datan hyödyntäminen lukio-opetuksessa voi näyttää. Kenties siinä ohessa onnistutaan herättämään mielenkiintoa aihepiiriä kohtaan, ehkä jopa sytyttelemään pientä innostuksen kipinää ja keskustelua.
+We hope that this blog can work as a place where you can get to know the topic without any pressure – to find information and inspiration of how we could utilize open data in high school teaching and see an example of what that process could look like. Maybe this will even spark up some conversation and interest about the topic.
 
-Valitettavasti täällä ei ole kommentointimahdollisuutta, niin mikäli haluat olla meihin yhteydessä – joko keskustella kanssamme aiheesta tai olet kiinnostunut mahdollisesta yhteistyöstä, niin otathan meihin yhteyttä sähköpostitse. Arvostamme kaikkia yhteydenottoja suuresti.
+Unfortunately we cannot have a comment box, so if you want to contact us – either to have a conversation about the topic or if you are interested in a possible collaboration, please do contact us by email. We appreciate all messages. 
 
 
-#### Blogin ylläpitäjät ja yhteystiedot
+#### Persons behind this blog and their contact information
 
-Voit ottaa yhteyttä Peitsaan ja Veeraan sähköpostitse, osoitteesta etunimi.sukunimi(at)helsinki.fi. 
+You can contact Peitsa and Veera via their emails, firstname.lastname(at)helsinki.fi.
 
 Peitsa Veteli             |  Veera Juntunen
 :-------------------------:|:-------------------------:
-![](kuvat/peitsa.png)  |  ![](kuvat/veera3.jpg)
-Tiedeopetuksen tutkimuksen vesiin pulahtanut tutkijanalku, jolta saa mielipiteen mihin vain. Peitsan mielenkiinnon kohteisiin kuuluu erityisesti autenttisuuden käsitteen kanssa painiminen ja digikompetenssi 21. vuosisadan kansalaiskasvatuksessa. Vapaa-ajalla tämän pitkän linjan partiojohtajan löytää helposti pienoismallien tai pöytäroolipelien parista. | Monipuolinen opetustausta ja teoreettisen materiaali- ja molekyylifysiikan opinnot, osaamista ja kokemusta myös ilmakehätutkimuksen parista. Opettaessa on parasta, kun saa tarjota rennonletkeän ja uteliaisuuskeskeisen opiskeluilmapiirin, jossa ei päntätä asioita ulkomuistiin. Harrastusten keräilijä, joista suurimpana kiinnostuksena vapaalasku, lumilautailu, talvivaellukset ja purjehdus.
+![](pictures/peitsa.png)  |  ![](pictures/veera3.jpg)
+Thrust on the heaving oceans of science education research, you can get an opinion about anything from this budding edu-research youngster. Peitsa's interests lie particularly with wrestling with the concept of authenticity and digital competencies in the upbringing of 21st century citizens. Off-work, you can usually find this long-time scout leader tinkering with miniatures or tabletop roleplaying games. | Diverse background in teaching, theoretical studies in material and molecular physics, and knowledge and experience in atmospheric research. Best part of teaching is to offer a relaxed environment and boost students' curiosity, while valuing actual understanding over memorizing. Collector of hobbies, the greatest interests lies in free skiing, snowboarding, winter expeditions and sailing.  
