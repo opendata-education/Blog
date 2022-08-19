@@ -9,7 +9,7 @@ We hope that this blog can work as a place where you can get to know the topic w
 Unfortunately we cannot have a comment box, so if you want to contact us – either to have a conversation about the topic or if you are interested in a possible collaboration, please do contact us by email. We appreciate all messages. 
 
 
-#### Persons behind this blog and their contact information
+#### Who we are and our contact information
 
 You can contact Peitsa and Veera via their emails, firstname.lastname(at)helsinki.fi.
 
