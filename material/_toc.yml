@@ -9,4 +9,5 @@ chapters:
 - file: texts/visits
   #sections:
 - file: texts/thoughts
-  #sections:
+  sections:
+  - file: texts/santeri_summer
